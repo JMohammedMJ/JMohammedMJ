@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Data doesn’t create insights; analysts do.
 
 🔗 My Skills
-     - Microsoft Excel
+     - Spreadsheet
      - sql
      - Tableau
      - Power BI
